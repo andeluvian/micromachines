@@ -1,0 +1,60 @@
+<map id = "Example">
+    <Background> Nothing.tar </Background>
+    <Finish_line>
+        <texture> Nothing.tar </texture>
+        <xpos> 500 </xpos>
+        <ypos> 0 </ypos>
+        <width> 50 </width>
+        <height> 350 </height>
+    </Finish_line>
+    
+    <walls>
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 200 </width>
+            <height> 50 </height>
+            <xpos> 0 </xpos>
+            <ypos> 0 </ypos>
+        </wall>
+        
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 200 </width>
+            <height> 50 </height>
+            <xpos> 0 </xpos>
+            <ypos> 50 </ypos>
+        </wall>
+        
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 200 </width>
+            <height> 50 </height>
+            <xpos> 0 </xpos>
+            <ypos> 50 </ypos>
+        </wall>
+        
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 200 </width>
+            <height> 50 </height>
+            <xpos> 150 </xpos>
+            <ypos> 0 </ypos>
+        </wall>
+        
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 50 </width>
+            <height> 20 </height>
+            <xpos> 50 </xpos>
+            <ypos> 38 </ypos>
+        </wall>
+        
+    </walls>
+    
+    <weapons>
+    </weapons>
+    
+    <obstacles>
+    </obstacles>
+    
+</map>

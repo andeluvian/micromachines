@@ -1,0 +1,337 @@
+<map id = "Map2">
+    <Background> Nothing.tar </Background>
+    <Finish_line>
+        <texture> Nothing.tar </texture>
+        <xpos> 500 </xpos>
+        <ypos> 0 </ypos>
+        <width> 50 </width>
+        <height> 500 </height>
+    </Finish_line>
+    
+    <walls texture="asteroid1.png">
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 5000 </width>
+            <height> 50 </height>
+            <xpos> -2500 </xpos>
+            <ypos> -50 </ypos>
+            <rot> 0 </rot>
+        </wall>
+        
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 5200 </width>
+            <height> 50 </height>
+            <xpos> -2600 </xpos>
+            <ypos> 500 </ypos>
+            <rot> 0 </rot>
+        </wall>
+
+        <wall>
+            <texture> Nothing.tar </texture>
+            <width> 1000 </width>
+            <height> 50 </height>
+            <xpos> 2475 </xpos>
+            <ypos> -43 </ypos>
+            <rot> -30 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 1200 </width>
+            <height> 50 </height>
+            <xpos> 2575 </xpos>
+            <ypos> 507 </ypos>
+            <rot> -30 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 500 </width>
+            <height> 50 </height>
+            <xpos> 3319 </xpos>
+            <ypos> -521 </ypos>
+            <rot> -60 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 900 </width>
+            <height> 50 </height>
+            <xpos> 3595 </xpos>
+            <ypos> -75 </ypos>
+            <rot> -60 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 400 </width>
+            <height> 50 </height>
+            <xpos> 3561 </xpos>
+            <ypos> -930 </ypos>
+            <rot> -90 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 600 </width>
+            <height> 50 </height>
+            <xpos> 4040 </xpos>
+            <ypos> -830 </ypos>
+            <rot> -90 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 300 </width>
+            <height> 50 </height>
+            <xpos> 3568 </xpos>
+            <ypos> -1303 </ypos>
+            <rot> -120 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 600 </width>
+            <height> 50 </height>
+            <xpos> 4047 </xpos>
+            <ypos> -1405 </ypos>
+            <rot> -120 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 400 </width>
+            <height> 50 </height>
+            <xpos> 3772 </xpos>
+            <ypos> -1903 </ypos>
+            <rot> -160 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 6000 </width>
+            <height> 50 </height>
+            <xpos> 3472 </xpos>
+            <ypos> -1540 </ypos>
+            <rot> -190 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 6200 </width>
+            <height> 50 </height>
+            <xpos> 3420 </xpos>
+            <ypos> -2040 </ypos>
+            <rot> -190 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 500 </width>
+            <height> 50 </height>
+            <xpos> -2398 </xpos>
+            <ypos> -540 </ypos>
+            <rot> -264 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 800 </width>
+            <height> 50 </height>
+            <xpos> -2655 </xpos>
+            <ypos> -980 </ypos>
+            <rot> -225 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 800 </width>
+            <height> 50 </height>
+            <xpos> -3205 </xpos>
+            <ypos> -450 </ypos>
+            <rot> -270 </rot>
+        </wall>
+
+	<wall>
+            <texture> Nothing.tar </texture>
+            <width> 700 </width>
+            <height> 50 </height>
+            <xpos> -3235 </xpos>
+            <ypos> 300 </ypos>
+            <rot> 17 </rot>
+        </wall>
+    </walls>
+
+    <checkpoints colorR="50" colorG="50" colorB="50">
+
+        <checkpoint id="1">
+            <width>50</width>
+            <height>500</height>
+            <xpos>200</xpos>
+            <ypos>0</ypos>
+            <rot>0</rot>
+        </checkpoint>
+
+        <checkpoint id="2">
+            <width>50</width>
+            <height>500</height>
+            <xpos>2500</xpos>
+            <ypos>0</ypos>
+            <rot>-15</rot>
+        </checkpoint>
+
+        <checkpoint id="3">
+            <width>50</width>
+            <height>500</height>
+            <xpos>3320</xpos>
+            <ypos>-520</ypos>
+            <rot>-45</rot>
+        </checkpoint>
+
+        <checkpoint id="4">
+            <width>50</width>
+            <height>500</height>
+            <xpos>3610</xpos>
+            <ypos>-930</ypos>
+            <rot>-90</rot>
+        </checkpoint>
+
+        <checkpoint id="5">
+            <width>50</width>
+            <height>500</height>
+            <xpos>3565</xpos>
+            <ypos>-1300</ypos>
+            <rot>-110</rot>
+        </checkpoint>
+
+        <checkpoint id="6">
+            <width>50</width>
+            <height>500</height>
+            <xpos>3460</xpos>
+            <ypos>-2055</ypos>
+            <rot>10</rot>
+        </checkpoint>
+
+        <checkpoint id="7">
+            <width>50</width>
+            <height>500</height>
+            <xpos>2600</xpos>
+            <ypos>-1900</ypos>
+            <rot>-10</rot>
+        </checkpoint>
+
+        <checkpoint id="8">
+            <width>50</width>
+            <height>500</height>
+            <xpos>800</xpos>
+            <ypos>-1600</ypos>
+            <rot>-10</rot>
+        </checkpoint>
+
+        <checkpoint id="9">
+            <width>50</width>
+            <height>500</height>
+            <xpos>-1000</xpos>
+            <ypos>-1300</ypos>
+            <rot>-10</rot>
+        </checkpoint>
+
+        <checkpoint id="10">
+            <width>50</width>
+            <height>500</height>
+            <xpos>-2500</xpos>
+            <ypos>-1000</ypos>
+            <rot>-10</rot>
+        </checkpoint>
+
+        <checkpoint id="11">
+            <width>800</width>
+            <height>50</height>
+            <xpos>-3250</xpos>
+            <ypos>-100</ypos>
+            <rot>0</rot>
+        </checkpoint>
+
+        <checkpoint id="12">
+            <width>50</width>
+            <height>500</height>
+            <xpos>-2500</xpos>
+            <ypos>-0</ypos>
+            <rot>10</rot>
+        </checkpoint>
+
+        <checkpoint id="13">
+            <width>50</width>
+            <height>500</height>
+            <xpos>-1000</xpos>
+            <ypos>0</ypos>
+            <rot>0</rot>
+        </checkpoint>
+    </checkpoints>
+
+    <spawnpoints>
+        <point id="1">
+            <xpos>100</xpos>
+            <ypos>100</ypos>
+        </point>
+        <point id="2">
+            <xpos>1379.81</xpos>
+            <ypos>379.661</ypos>
+        </point>
+        <point id="3">
+            <xpos>2092.86</xpos>
+            <ypos>192.039</ypos>
+        </point>
+        <point id="4">
+            <xpos>3139.87</xpos>
+            <ypos>-75.9292</ypos>
+        </point>
+        <point id="5">
+            <xpos>3693.88</xpos>
+            <ypos>-495.131</ypos>
+        </point>
+        <point id="6">
+            <xpos>3673.24</xpos>
+            <ypos>-1490.86</ypos>
+        </point>
+        <point id="7">
+            <xpos>2729.79</xpos>
+            <ypos>-1533.83</ypos>
+        </point>
+        <point id="8">
+            <xpos>1618.17</xpos>
+            <ypos>-1356.19</ypos>
+        </point>
+        <point id="9">
+            <xpos>100</xpos>
+            <ypos>100</ypos>
+        </point>
+        <point id="10">
+            <xpos>-281.874</xpos>
+            <ypos>232.874</ypos>
+        </point>
+        <point id="11">
+            <xpos>-1254.63</xpos>
+            <ypos>290.328</ypos>
+        </point>
+        <point id="12">
+            <xpos>-2356.02</xpos>
+            <ypos>139.11</ypos>
+        </point>
+        <point id="13">
+            <xpos>-2724.06</xpos>
+            <ypos>-257.404</ypos>
+        </point>
+        <point id="14">
+            <xpos>-2328.68</xpos>
+            <ypos>-777.805</ypos>
+        </point>
+    </spawnpoints>
+    
+    <weapons>
+    </weapons>
+    <obstacles>
+    </obstacles>
+    
+</map>
